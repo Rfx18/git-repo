@@ -8,6 +8,7 @@ int main()
 	{
 		cout<<"hello world \n";
 	}
-	
+	cout<<"noice";
+	cout<<"done with for loops";
 	return 0;
 }
